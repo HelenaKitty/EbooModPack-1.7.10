@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.3 Unlimited for 1.7.10 on Thu Jan 21 04:16:52 GMT 2016",
+  "generated": "Generated using JourneyMap 5.1.3 Unlimited for 1.7.10 on Thu Jan 21 04:31:27 GMT 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Default",
-  "modNames": "BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Big Reactors:0.4.3A, BuildCraft:7.1.14, CoFH ASM:000, CoFH Core:1.7.10R3.0.3, ComputerCraft:1.75, Decocraft:2.2.1, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, JourneyMap:5.1.3, MCFrames:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1558, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.32, OpenComputers (Core):1.5.21.41, OpenComputers:1.5.21.41, PTRModelLib:1.0.0, ProjectRed Compatibility:4.7.0pre10.93, ProjectRed Core:4.7.0pre10.93, ProjectRed Expansion:4.7.0pre10.93, ProjectRed Exploration:4.7.0pre10.93, ProjectRed Fabrication:4.7.0pre10.93, ProjectRed Illumination:4.7.0pre10.93, ProjectRed Integration:4.7.0pre10.93, ProjectRed Transmission:4.7.0pre10.93, ProjectRed Transportation:4.7.0pre10.93",
+  "modNames": "BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Big Reactors:0.4.3A, BuildCraft:7.1.14, CoFH ASM:000, CoFH Core:1.7.10R3.0.3, ComputerCraft:1.75, Decocraft:2.2.1, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, IndustrialCraft 2:2.2.811-experimental, JourneyMap:5.1.3, MCFrames:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1558, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.32, OpenComputers (Core):1.5.21.41, OpenComputers:1.5.21.41, PTRModelLib:1.0.0, ProjectRed Compatibility:4.7.0pre10.93, ProjectRed Core:4.7.0pre10.93, ProjectRed Expansion:4.7.0pre10.93, ProjectRed Exploration:4.7.0pre10.93, ProjectRed Fabrication:4.7.0pre10.93, ProjectRed Illumination:4.7.0pre10.93, ProjectRed Integration:4.7.0pre10.93, ProjectRed Transmission:4.7.0pre10.93, ProjectRed Transportation:4.7.0pre10.93",
   "basicColors": [
     {
       "name": "3D Print",
@@ -86,6 +86,36 @@ var colorpalette={
       "color": "#322d32"
     },
     {
+      "name": "Advanced Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 12,
+      "color": "#bfc8c8"
+    },
+    {
+      "name": "Advanced Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 13,
+      "color": "#c3cbcb"
+    },
+    {
+      "name": "Advanced Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 14,
+      "color": "#bfc8c8"
+    },
+    {
+      "name": "Advanced Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 15,
+      "color": "#bfc8c8"
+    },
+    {
+      "name": "Advanced Miner",
+      "uid": "IC2:blockMachine2",
+      "meta": 11,
+      "color": "#bdc3c5"
+    },
+    {
       "name": "Advanced Turtle",
       "uid": "ComputerCraft:CC-TurtleAdvanced",
       "meta": 0,
@@ -146,6 +176,18 @@ var colorpalette={
       "color": "#9da1a7"
     },
     {
+      "name": "Barrel",
+      "uid": "IC2:blockBarrel",
+      "meta": 0,
+      "color": "#5f4a2d"
+    },
+    {
+      "name": "Basalt",
+      "uid": "IC2:blockBasalt",
+      "meta": 0,
+      "color": "#323232"
+    },
+    {
       "name": "Basalt",
       "uid": "ProjRed|Exploration:projectred.exploration.stone",
       "meta": 3,
@@ -182,6 +224,96 @@ var colorpalette={
       "color": "#393b3a"
     },
     {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 0,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 3,
+      "color": "#a3a9aa"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 4,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 5,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 6,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 8,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 10,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Basic Machine Casing",
+      "uid": "IC2:blockMachine",
+      "meta": 11,
+      "color": "#a3a9aa"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 0,
+      "color": "#736c63"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 1,
+      "color": "#bcc3c4"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 2,
+      "color": "#c59d9d"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 4,
+      "color": "#b9bebc"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 5,
+      "color": "#bb8782"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 6,
+      "color": "#c7c980"
+    },
+    {
+      "name": "BatBox",
+      "uid": "IC2:blockElectric",
+      "meta": 7,
+      "color": "#a24f14"
+    },
+    {
       "name": "Battery Box",
       "uid": "ProjRed|Expansion:projectred.expansion.machine2",
       "meta": 5,
@@ -205,6 +337,20 @@ var colorpalette={
       "uid": "minecraft:bedrock",
       "meta": 0,
       "color": "#535353"
+    },
+    {
+      "name": "Biogas",
+      "uid": "IC2:fluidBiogas",
+      "meta": 0,
+      "color": "#a6974b",
+      "alpha": 0.3
+    },
+    {
+      "name": "Biomass",
+      "uid": "IC2:fluidBiomass",
+      "meta": 0,
+      "color": "#366e24",
+      "alpha": 0.3
     },
     {
       "name": "Birch Leaves",
@@ -463,6 +609,12 @@ var colorpalette={
       "color": "#926356"
     },
     {
+      "name": "Bronze Block",
+      "uid": "IC2:blockMetal",
+      "meta": 2,
+      "color": "#d15c00"
+    },
+    {
       "name": "Brown Carpet",
       "uid": "minecraft:carpet",
       "meta": 12,
@@ -553,6 +705,30 @@ var colorpalette={
       "uid": "minecraft:cauldron",
       "meta": 0,
       "color": "#454545"
+    },
+    {
+      "name": "Charge Pad (BatBox)",
+      "uid": "IC2:blockChargepad",
+      "meta": 0,
+      "color": "#503f28"
+    },
+    {
+      "name": "Charge Pad (BatBox)",
+      "uid": "IC2:blockChargepad",
+      "meta": 1,
+      "color": "#794019"
+    },
+    {
+      "name": "Charge Pad (BatBox)",
+      "uid": "IC2:blockChargepad",
+      "meta": 2,
+      "color": "#8b9090"
+    },
+    {
+      "name": "Charge Pad (BatBox)",
+      "uid": "IC2:blockChargepad",
+      "meta": 3,
+      "color": "#917b7b"
     },
     {
       "name": "Charger",
@@ -693,11 +869,36 @@ var colorpalette={
       "color": "#5e5e5e"
     },
     {
+      "name": "Construction Foam",
+      "uid": "IC2:blockFoam",
+      "meta": 0,
+      "color": "#f0efee"
+    },
+    {
+      "name": "Construction Foam",
+      "uid": "IC2:fluidConstructionFoam",
+      "meta": 0,
+      "color": "#1f1f1f",
+      "alpha": 0.3
+    },
+    {
       "name": "Construction Mark",
       "uid": "BuildCraft|Builders:constructionMarkerBlock",
       "meta": 0,
       "color": "#ac9a5e",
       "alpha": 0.99607843
+    },
+    {
+      "name": "Copper Block",
+      "uid": "IC2:blockMetal",
+      "meta": 0,
+      "color": "#8e4d1a"
+    },
+    {
+      "name": "Copper Ore",
+      "uid": "IC2:blockOreCopper",
+      "meta": 0,
+      "color": "#847971"
     },
     {
       "name": "Copper Ore",
@@ -728,6 +929,12 @@ var colorpalette={
       "uid": "BuildCraft|Core:engineBlock",
       "meta": 3,
       "color": "#791212"
+    },
+    {
+      "name": "Crop",
+      "uid": "IC2:blockCrop",
+      "meta": 0,
+      "color": "#684e1e"
     },
     {
       "name": "Cyan Carpet",
@@ -888,6 +1095,13 @@ var colorpalette={
       "color": "#606060"
     },
     {
+      "name": "Distilled Water",
+      "uid": "IC2:fluidDistilledWater",
+      "meta": 0,
+      "color": "#4355f5",
+      "alpha": 0.3
+    },
+    {
       "name": "Double Tallgrass",
       "uid": "minecraft:double_plant",
       "meta": 2,
@@ -904,6 +1118,24 @@ var colorpalette={
       "uid": "minecraft:dropper",
       "meta": 0,
       "color": "#606060"
+    },
+    {
+      "name": "Electric Furnace",
+      "uid": "IC2:blockMachine",
+      "meta": 2,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Electric Heat Generator",
+      "uid": "IC2:blockHeatGenerator",
+      "meta": 3,
+      "color": "#b4bbbc"
+    },
+    {
+      "name": "Electric Kinetic Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 2,
+      "color": "#b4bbbc"
     },
     {
       "name": "Electronic Library",
@@ -970,6 +1202,12 @@ var colorpalette={
       "uid": "minecraft:ender_chest",
       "meta": 0,
       "color": "#14121d"
+    },
+    {
+      "name": "Energy-O-Mat",
+      "uid": "IC2:blockPersonal",
+      "meta": 2,
+      "color": "#bdc3c5"
     },
     {
       "name": "Farmland",
@@ -1041,6 +1279,12 @@ var colorpalette={
       "alpha": 0.3
     },
     {
+      "name": "Fluid Heat Generator",
+      "uid": "IC2:blockHeatGenerator",
+      "meta": 1,
+      "color": "#bdc3c5"
+    },
+    {
       "name": "Fluid Yellorium",
       "uid": "BigReactors:tile.fluid.yellorium.still",
       "meta": 0,
@@ -1090,6 +1334,60 @@ var colorpalette={
       "uid": "minecraft:lit_furnace",
       "meta": 0,
       "color": "#606060"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 0,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 1,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 3,
+      "color": "#2d2b47"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 4,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 5,
+      "color": "#9a9e6c"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 6,
+      "color": "#919697"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 7,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 8,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Generator",
+      "uid": "IC2:blockGenerator",
+      "meta": 9,
+      "color": "#bdc3c5"
     },
     {
       "name": "Geolyzer",
@@ -1249,6 +1547,13 @@ var colorpalette={
       "color": "#454545"
     },
     {
+      "name": "Hotspring Water",
+      "uid": "IC2:fluidHotWater",
+      "meta": 0,
+      "color": "#3bf2f2",
+      "alpha": 0.3
+    },
+    {
       "name": "IC Printer",
       "uid": "ProjRed|Fabrication:projectred.integration.icblock",
       "meta": 1,
@@ -1259,6 +1564,20 @@ var colorpalette={
       "uid": "ProjRed|Fabrication:projectred.integration.icblock",
       "meta": 0,
       "color": "#28416a"
+    },
+    {
+      "name": "IC2 Coolant",
+      "uid": "IC2:fluidCoolant",
+      "meta": 0,
+      "color": "#135869",
+      "alpha": 0.3
+    },
+    {
+      "name": "IC2 Hot Coolant",
+      "uid": "IC2:fluidHotCoolant",
+      "meta": 0,
+      "color": "#b32733",
+      "alpha": 0.7764706
     },
     {
       "name": "Ice",
@@ -1272,6 +1591,12 @@ var colorpalette={
       "uid": "ProjRed|Expansion:projectred.expansion.machine1",
       "meta": 0,
       "color": "#4c3730"
+    },
+    {
+      "name": "Industrial TNT",
+      "uid": "IC2:blockITNT",
+      "meta": 0,
+      "color": "#82412f"
     },
     {
       "name": "Integration Table",
@@ -1389,10 +1714,28 @@ var colorpalette={
       "color": "#a3a3a3"
     },
     {
+      "name": "Iron Fence",
+      "uid": "IC2:blockFenceIron",
+      "meta": 0,
+      "color": "#e7e7e7"
+    },
+    {
+      "name": "Iron Furnace",
+      "uid": "IC2:blockMachine",
+      "meta": 1,
+      "color": "#e2e2e2"
+    },
+    {
       "name": "Iron Ore",
       "uid": "minecraft:iron_ore",
       "meta": 0,
       "color": "#87827e"
+    },
+    {
+      "name": "Iron Scaffold",
+      "uid": "IC2:blockIronScaffold",
+      "meta": 0,
+      "color": "#acaba8"
     },
     {
       "name": "Item Barrel",
@@ -1461,6 +1804,30 @@ var colorpalette={
       "color": "#2b2b2b"
     },
     {
+      "name": "Kinetic Steam Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 1,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Kinetic Water Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 4,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Kinetic Wind Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 0,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "LV-Transformer",
+      "uid": "IC2:blockElectric",
+      "meta": 3,
+      "color": "#5b472c"
+    },
+    {
       "name": "Ladder",
       "uid": "minecraft:ladder",
       "meta": 0,
@@ -1507,6 +1874,18 @@ var colorpalette={
       "uid": "minecraft:lava",
       "meta": 0,
       "color": "#d1530f"
+    },
+    {
+      "name": "Lead Block",
+      "uid": "IC2:blockMetal",
+      "meta": 4,
+      "color": "#a3aa91"
+    },
+    {
+      "name": "Lead Ore",
+      "uid": "IC2:blockOreLead",
+      "meta": 0,
+      "color": "#818384"
     },
     {
       "name": "Lever",
@@ -1641,10 +2020,41 @@ var colorpalette={
       "color": "#41ae38"
     },
     {
+      "name": "Liquid Heat Exchanger",
+      "uid": "IC2:blockMachine2",
+      "meta": 0,
+      "color": "#90bdc2"
+    },
+    {
+      "name": "Liquid Heat Exchanger",
+      "uid": "IC2:blockMachine2",
+      "meta": 6,
+      "color": "#b6bdbd"
+    },
+    {
+      "name": "Liquid Heat Exchanger",
+      "uid": "IC2:blockMachine2",
+      "meta": 7,
+      "color": "#b7bcb8"
+    },
+    {
+      "name": "Liquid Heat Exchanger",
+      "uid": "IC2:blockMachine2",
+      "meta": 8,
+      "color": "#a9a9b0"
+    },
+    {
       "name": "Ludicrite Block",
       "uid": "BigReactors:BRMetalBlock",
       "meta": 4,
       "color": "#df2eab"
+    },
+    {
+      "name": "Luminator",
+      "uid": "IC2:blockLuminatorDark",
+      "meta": 0,
+      "color": "#c4c1c1",
+      "alpha": 0.4
     },
     {
       "name": "Magenta Carpet",
@@ -1685,6 +2095,18 @@ var colorpalette={
       "color": "#b350bc"
     },
     {
+      "name": "Magnetizer",
+      "uid": "IC2:blockMachine",
+      "meta": 9,
+      "color": "#a2aaac"
+    },
+    {
+      "name": "Manual Kinetic Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 3,
+      "color": "#bdc3c5"
+    },
+    {
       "name": "Marble",
       "uid": "ProjRed|Exploration:projectred.exploration.stone",
       "meta": 0,
@@ -1721,11 +2143,23 @@ var colorpalette={
       "color": "#362e2d"
     },
     {
+      "name": "Miner",
+      "uid": "IC2:blockMachine",
+      "meta": 7,
+      "color": "#bdc3c5"
+    },
+    {
       "name": "Mining Pipe",
       "uid": "BuildCraft|Factory:plainPipeBlock",
       "meta": 0,
       "color": "#5e4b37",
       "alpha": 0.4
+    },
+    {
+      "name": "Mining Pipe",
+      "uid": "IC2:blockMiningPipe",
+      "meta": 0,
+      "color": "#6b6b6b"
     },
     {
       "name": "Mining Well",
@@ -1849,6 +2283,12 @@ var colorpalette={
       "color": "#644332"
     },
     {
+      "name": "Nuke",
+      "uid": "IC2:blockNuke",
+      "meta": 0,
+      "color": "#82412f"
+    },
+    {
       "name": "Oak Leaves",
       "uid": "minecraft:leaves",
       "meta": 0,
@@ -1961,6 +2401,12 @@ var colorpalette={
       "alpha": 0.8
     },
     {
+      "name": "Pahoehoe Lava",
+      "uid": "IC2:fluidPahoehoeLava",
+      "meta": 0,
+      "color": "#777169"
+    },
+    {
       "name": "Path Mark",
       "uid": "BuildCraft|Core:pathMarkerBlock",
       "meta": 0,
@@ -1985,6 +2431,12 @@ var colorpalette={
       "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
       "meta": 7,
       "color": "#175000"
+    },
+    {
+      "name": "Personal Safe",
+      "uid": "IC2:blockPersonal",
+      "meta": 0,
+      "color": "#b9c6ca"
     },
     {
       "name": "Pillar Quartz Block",
@@ -2172,6 +2624,12 @@ var colorpalette={
       "color": "#ece9e2"
     },
     {
+      "name": "Radioisotope Heat Generator",
+      "uid": "IC2:blockHeatGenerator",
+      "meta": 2,
+      "color": "#959fa2"
+    },
+    {
       "name": "Raid",
       "uid": "OpenComputers:raid",
       "meta": 0,
@@ -2184,6 +2642,12 @@ var colorpalette={
       "color": "#796c58"
     },
     {
+      "name": "Reactor Access Hatch",
+      "uid": "IC2:blockReactorAccessHatch",
+      "meta": 0,
+      "color": "#9aa28b"
+    },
+    {
       "name": "Reactor Access Port",
       "uid": "BigReactors:BRReactorPart",
       "meta": 4,
@@ -2194,6 +2658,12 @@ var colorpalette={
       "uid": "BigReactors:BRReactorPart",
       "meta": 0,
       "color": "#505057"
+    },
+    {
+      "name": "Reactor Chamber",
+      "uid": "IC2:blockReactorChamber",
+      "meta": 0,
+      "color": "#bdc3c5"
     },
     {
       "name": "Reactor Computer Port",
@@ -2226,6 +2696,12 @@ var colorpalette={
       "color": "#5f5067"
     },
     {
+      "name": "Reactor Fluid Port",
+      "uid": "IC2:blockReactorFluidPort",
+      "meta": 0,
+      "color": "#8f917e"
+    },
+    {
       "name": "Reactor Glass",
       "uid": "BigReactors:BRMultiblockGlass",
       "meta": 0,
@@ -2239,6 +2715,12 @@ var colorpalette={
       "color": "#505057"
     },
     {
+      "name": "Reactor Pressure Vessel",
+      "uid": "IC2:blockreactorvessel",
+      "meta": 0,
+      "color": "#99a08a"
+    },
+    {
       "name": "Reactor RedNet Port",
       "uid": "BigReactors:BRReactorPart",
       "meta": 6,
@@ -2249,6 +2731,12 @@ var colorpalette={
       "uid": "BigReactors:BRReactorRedstonePort",
       "meta": 0,
       "color": "#505057"
+    },
+    {
+      "name": "Reactor Redstone Port",
+      "uid": "IC2:blockReactorRedstonePort",
+      "meta": 0,
+      "color": "#96927e"
     },
     {
       "name": "Recipe Packager",
@@ -2385,10 +2873,35 @@ var colorpalette={
       "color": "#5d3e26"
     },
     {
+      "name": "Refined Iron Block",
+      "uid": "IC2:blockMetal",
+      "meta": 5,
+      "color": "#9aaeb4"
+    },
+    {
       "name": "Refinery",
       "uid": "BuildCraft|Factory:refineryBlock",
       "meta": 0,
       "color": "#7d0303"
+    },
+    {
+      "name": "Reinforced Construction Foam",
+      "uid": "IC2:blockReinforcedFoam",
+      "meta": 0,
+      "color": "#efeff0"
+    },
+    {
+      "name": "Reinforced Glass",
+      "uid": "IC2:blockAlloyGlass",
+      "meta": 0,
+      "color": "#686b62",
+      "alpha": 0.4
+    },
+    {
+      "name": "Reinforced Stone",
+      "uid": "IC2:blockAlloy",
+      "meta": 0,
+      "color": "#605e53"
     },
     {
       "name": "Relay",
@@ -2419,6 +2932,30 @@ var colorpalette={
       "uid": "minecraft:double_plant",
       "meta": 4,
       "color": "#733d07"
+    },
+    {
+      "name": "Rubber Sheet",
+      "uid": "IC2:blockRubber",
+      "meta": 0,
+      "color": "#323232"
+    },
+    {
+      "name": "Rubber Tree Leaves",
+      "uid": "IC2:blockRubLeaves",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Rubber Tree Sapling",
+      "uid": "IC2:blockRubSapling",
+      "meta": 0,
+      "color": "#424527"
+    },
+    {
+      "name": "Rubber Wood",
+      "uid": "IC2:blockRubWood",
+      "meta": 0,
+      "color": "#93702b"
     },
     {
       "name": "Ruby Ore",
@@ -2467,6 +3004,12 @@ var colorpalette={
       "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
       "meta": 6,
       "color": "#050959"
+    },
+    {
+      "name": "Scaffold",
+      "uid": "IC2:blockScaffold",
+      "meta": 0,
+      "color": "#927749"
     },
     {
       "name": "Screen (Tier 1)",
@@ -2559,6 +3102,12 @@ var colorpalette={
       "color": "#effbfb"
     },
     {
+      "name": "Solid Heat Generator",
+      "uid": "IC2:blockHeatGenerator",
+      "meta": 0,
+      "color": "#bdc3c5"
+    },
+    {
       "name": "Soul Sand",
       "uid": "minecraft:soul_sand",
       "meta": 0,
@@ -2613,6 +3162,61 @@ var colorpalette={
       "color": "#322d32"
     },
     {
+      "name": "Steam",
+      "uid": "IC2:fluidSteam",
+      "meta": 0,
+      "color": "#bbbbbb",
+      "alpha": 0.95686275
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 0,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 1,
+      "color": "#c0c6c7"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 3,
+      "color": "#2b2b33"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 4,
+      "color": "#adbbb5"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 5,
+      "color": "#a5abac"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 6,
+      "color": "#a5ac9c"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 7,
+      "color": "#b9bfc0"
+    },
+    {
+      "name": "Steam Generator",
+      "uid": "IC2:blockMachine3",
+      "meta": 8,
+      "color": "#7d8182"
+    },
+    {
       "name": "Sticky Piston",
       "uid": "minecraft:sticky_piston",
       "meta": 0,
@@ -2623,6 +3227,12 @@ var colorpalette={
       "uid": "BuildCraft|Core:engineBlock",
       "meta": 1,
       "color": "#656565"
+    },
+    {
+      "name": "Stirling Kinetic Generator",
+      "uid": "IC2:blockKineticGenerator",
+      "meta": 5,
+      "color": "#a9a8a5"
     },
     {
       "name": "Stone",
@@ -2716,6 +3326,13 @@ var colorpalette={
       "color": "#436f2d"
     },
     {
+      "name": "Superheated Steam",
+      "uid": "IC2:fluidSuperheatedSteam",
+      "meta": 0,
+      "color": "#c9d0d0",
+      "alpha": 0.95686275
+    },
+    {
       "name": "TNT",
       "uid": "minecraft:tnt",
       "meta": 0,
@@ -2729,10 +3346,88 @@ var colorpalette={
       "alpha": 0.4
     },
     {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 1,
+      "color": "#484c4d"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 2,
+      "color": "#b8bebf"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 3,
+      "color": "#b4bbbb"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 4,
+      "color": "#898e8f"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 5,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 9,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 10,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 12,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 13,
+      "color": "#bdc3c5"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 14,
+      "color": "#aab2b4"
+    },
+    {
+      "name": "Teleporter",
+      "uid": "IC2:blockMachine2",
+      "meta": 15,
+      "color": "#909192"
+    },
+    {
       "name": "Teleposer",
       "uid": "ProjRed|Expansion:projectred.expansion.machine2",
       "meta": 7,
       "color": "#0d1821"
+    },
+    {
+      "name": "Tin Block",
+      "uid": "IC2:blockMetal",
+      "meta": 1,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Tin Ore",
+      "uid": "IC2:blockOreTin",
+      "meta": 0,
+      "color": "#878787"
     },
     {
       "name": "Tin Ore",
@@ -2751,6 +3446,12 @@ var colorpalette={
       "uid": "minecraft:torch",
       "meta": 0,
       "color": "#826a3a"
+    },
+    {
+      "name": "Trade-O-Mat",
+      "uid": "IC2:blockPersonal",
+      "meta": 1,
+      "color": "#bdc3c5"
     },
     {
       "name": "Transposer",
@@ -2850,6 +3551,25 @@ var colorpalette={
       "color": "#7d7d7d"
     },
     {
+      "name": "UU-Matter",
+      "uid": "IC2:fluidUuMatter",
+      "meta": 0,
+      "color": "#3a0531",
+      "alpha": 0.3
+    },
+    {
+      "name": "Uranium Block",
+      "uid": "IC2:blockMetal",
+      "meta": 3,
+      "color": "#9a9e6b"
+    },
+    {
+      "name": "Uranium Ore",
+      "uid": "IC2:blockOreUran",
+      "meta": 0,
+      "color": "#7a876d"
+    },
+    {
       "name": "Vines",
       "uid": "minecraft:vine",
       "meta": 0,
@@ -2869,6 +3589,12 @@ var colorpalette={
       "meta": 0,
       "color": "#2e43f4",
       "alpha": 0.3
+    },
+    {
+      "name": "Water Mill",
+      "uid": "IC2:blockGenerator",
+      "meta": 2,
+      "color": "#bdc3c5"
     },
     {
       "name": "Water Spring",
@@ -3001,10 +3727,130 @@ var colorpalette={
       "color": "#c7c7c7"
     },
     {
+      "name": "blockMachine3",
+      "uid": "IC2:blockMachine3",
+      "meta": 2,
+      "color": "#bfc8c8"
+    },
+    {
       "name": "cake",
       "uid": "minecraft:cake",
       "meta": 0,
       "color": "#e4cdce"
+    },
+    {
+      "name": "ic2.blockDynamite",
+      "uid": "IC2:blockDynamite",
+      "meta": 0,
+      "color": "#b33715"
+    },
+    {
+      "name": "ic2.blockDynamiteRemote",
+      "uid": "IC2:blockDynamiteRemote",
+      "meta": 0,
+      "color": "#a9472c"
+    },
+    {
+      "name": "ic2.blockHarz",
+      "uid": "IC2:blockHarz",
+      "meta": 0,
+      "color": "#c8871b"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 0,
+      "color": "#3d3a3a"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 1,
+      "color": "#d54b48"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 2,
+      "color": "#587338"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 3,
+      "color": "#7f543b"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 4,
+      "color": "#4654cd"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 5,
+      "color": "#b45ce9"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 6,
+      "color": "#47a7c8"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 7,
+      "color": "#a9a9a9"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 8,
+      "color": "#656565"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 9,
+      "color": "#f3c0d1"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 10,
+      "color": "#5de84f"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 11,
+      "color": "#ece43e"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 12,
+      "color": "#a4c2ef"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 13,
+      "color": "#e47de9"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 14,
+      "color": "#f8b060"
+    },
+    {
+      "name": "ic2.blockWall",
+      "uid": "IC2:blockWall",
+      "meta": 15,
+      "color": "#dfdfdf"
     },
     {
       "name": "netherStalk",
@@ -3035,6 +3881,12 @@ var colorpalette={
       "uid": "minecraft:pumpkin_stem",
       "meta": 0,
       "color": "#999999"
+    },
+    {
+      "name": "tile.blockDoorAlloy.name",
+      "uid": "IC2:blockDoorAlloy",
+      "meta": 0,
+      "color": "#616055"
     },
     {
       "name": "tile.blockRedPlasma.name",
