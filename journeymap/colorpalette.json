@@ -1,0 +1,3090 @@
+var colorpalette={
+  "version": 3,
+  "name": "JourneyMap Color Palette",
+  "generated": "Generated using JourneyMap 5.1.3 Unlimited for 1.7.10 on Thu Jan 21 04:16:52 GMT 2016",
+  "description": [
+    "This file can be used to keep map colors consistent when changing resource packs.",
+    "Edit at your own risk. You can view it using the colorpalette.html file.",
+    "To use this palette with a single world, place colorpalette.json in: .minecraft/journeymap/data/*/worldname/",
+    "To use this palette with all worlds, edit and set \"permanent\": true, then place colorpalette.json in: .minecraft/journeymap/",
+    "For more information, go to: http://journeymap.info/help/wiki/Color_Palette"
+  ],
+  "permanent": false,
+  "resourcePacks": "Default",
+  "modNames": "BC Builders:7.1.14, BC Energy:7.1.14, BC Factory:7.1.14, BC Robotics:7.1.14, BC Silicon:7.1.14, BC Transport:7.1.14, Big Reactors:0.4.3A, BuildCraft:7.1.14, CoFH ASM:000, CoFH Core:1.7.10R3.0.3, ComputerCraft:1.75, Decocraft:2.2.1, Forge Microblocks:1.2.0.345, Forge Mod Loader:7.10.99.99, Forge Multipart:1.2.0.345, ForgeRelocation:0.0.1.4, JourneyMap:5.1.3, MCFrames:1.0, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1558, Minecraft Multipart Plugin:1.2.0.345, MrTJPCore:1.1.0.32, OpenComputers (Core):1.5.21.41, OpenComputers:1.5.21.41, PTRModelLib:1.0.0, ProjectRed Compatibility:4.7.0pre10.93, ProjectRed Core:4.7.0pre10.93, ProjectRed Expansion:4.7.0pre10.93, ProjectRed Exploration:4.7.0pre10.93, ProjectRed Fabrication:4.7.0pre10.93, ProjectRed Illumination:4.7.0pre10.93, ProjectRed Integration:4.7.0pre10.93, ProjectRed Transmission:4.7.0pre10.93, ProjectRed Transportation:4.7.0pre10.93",
+  "basicColors": [
+    {
+      "name": "3D Print",
+      "uid": "OpenComputers:print",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "3D Printer",
+      "uid": "OpenComputers:printer",
+      "meta": 0,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Leaves",
+      "uid": "minecraft:leaves2",
+      "meta": 1,
+      "color": "#878787"
+    },
+    {
+      "name": "Acacia Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 4,
+      "color": "#727314"
+    },
+    {
+      "name": "Acacia Wood",
+      "uid": "minecraft:log2",
+      "meta": 0,
+      "color": "#9a5b40"
+    },
+    {
+      "name": "Acacia Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 4,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Acacia Wood Stairs",
+      "uid": "minecraft:acacia_stairs",
+      "meta": 0,
+      "color": "#a95b33"
+    },
+    {
+      "name": "Activator Rail",
+      "uid": "minecraft:activator_rail",
+      "meta": 0,
+      "color": "#685347"
+    },
+    {
+      "name": "Adapter",
+      "uid": "OpenComputers:adapter",
+      "meta": 0,
+      "color": "#333733"
+    },
+    {
+      "name": "Advanced Crafting Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 1,
+      "color": "#322d32"
+    },
+    {
+      "name": "Advanced Turtle",
+      "uid": "ComputerCraft:CC-TurtleAdvanced",
+      "meta": 0,
+      "color": "#a3a05a"
+    },
+    {
+      "name": "Allium",
+      "uid": "minecraft:red_flower",
+      "meta": 2,
+      "color": "#8549b6"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 0,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 1,
+      "color": "#404040"
+    },
+    {
+      "name": "Anvil",
+      "uid": "minecraft:anvil",
+      "meta": 2,
+      "color": "#404040"
+    },
+    {
+      "name": "Architect Table",
+      "uid": "BuildCraft|Builders:architectBlock",
+      "meta": 0,
+      "color": "#c9c9c9"
+    },
+    {
+      "name": "Assembly Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 0,
+      "color": "#352c33"
+    },
+    {
+      "name": "Auto Crafting Bench",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 11,
+      "color": "#32554a"
+    },
+    {
+      "name": "Auto Workbench",
+      "uid": "BuildCraft|Factory:autoWorkbenchBlock",
+      "meta": 0,
+      "color": "#715236"
+    },
+    {
+      "name": "Azure Bluet",
+      "uid": "minecraft:red_flower",
+      "meta": 3,
+      "color": "#9da1a7"
+    },
+    {
+      "name": "Basalt",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 3,
+      "color": "#393b3a"
+    },
+    {
+      "name": "Basalt Brick",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 4,
+      "color": "#353736"
+    },
+    {
+      "name": "Basalt Brick Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 4,
+      "color": "#353736"
+    },
+    {
+      "name": "Basalt Cobblestone",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 2,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Basalt Cobblestone Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 2,
+      "color": "#2f2f2f"
+    },
+    {
+      "name": "Basalt Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 3,
+      "color": "#393b3a"
+    },
+    {
+      "name": "Battery Box",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 5,
+      "color": "#866e47"
+    },
+    {
+      "name": "Beacon",
+      "uid": "minecraft:beacon",
+      "meta": 0,
+      "color": "#74ddd7",
+      "alpha": 0.4
+    },
+    {
+      "name": "Bed",
+      "uid": "minecraft:bed",
+      "meta": 0,
+      "color": "#8e1616"
+    },
+    {
+      "name": "Bedrock",
+      "uid": "minecraft:bedrock",
+      "meta": 0,
+      "color": "#535353"
+    },
+    {
+      "name": "Birch Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 2,
+      "color": "#878787"
+    },
+    {
+      "name": "Birch Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 2,
+      "color": "#769654"
+    },
+    {
+      "name": "Birch Wood",
+      "uid": "minecraft:log",
+      "meta": 2,
+      "color": "#b8a679"
+    },
+    {
+      "name": "Birch Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 2,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Birch Wood Stairs",
+      "uid": "minecraft:birch_stairs",
+      "meta": 0,
+      "color": "#c3b37b"
+    },
+    {
+      "name": "Black Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Black Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 15,
+      "color": "#212121"
+    },
+    {
+      "name": "Black Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 15,
+      "color": "#251610"
+    },
+    {
+      "name": "Black Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 15,
+      "color": "#191919",
+      "alpha": 0.4
+    },
+    {
+      "name": "Black Wool",
+      "uid": "minecraft:wool",
+      "meta": 15,
+      "color": "#191616"
+    },
+    {
+      "name": "Block Breaker",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 0,
+      "color": "#575757"
+    },
+    {
+      "name": "Block Placer",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 2,
+      "color": "#6a5b43"
+    },
+    {
+      "name": "Block of Chamelium",
+      "uid": "OpenComputers:chameliumBlock",
+      "meta": 0,
+      "color": "#ffffff"
+    },
+    {
+      "name": "Block of Coal",
+      "uid": "minecraft:coal_block",
+      "meta": 0,
+      "color": "#121212"
+    },
+    {
+      "name": "Block of Copper",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 8,
+      "color": "#d6882d"
+    },
+    {
+      "name": "Block of Diamond",
+      "uid": "minecraft:diamond_block",
+      "meta": 0,
+      "color": "#61dbd5"
+    },
+    {
+      "name": "Block of Electrotine",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 11,
+      "color": "#0d4075"
+    },
+    {
+      "name": "Block of Emerald",
+      "uid": "minecraft:emerald_block",
+      "meta": 0,
+      "color": "#51d975"
+    },
+    {
+      "name": "Block of Gold",
+      "uid": "minecraft:gold_block",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "Block of Iron",
+      "uid": "minecraft:iron_block",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Block of Peridot",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 7,
+      "color": "#175000"
+    },
+    {
+      "name": "Block of Quartz",
+      "uid": "minecraft:quartz_block",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Block of Redstone",
+      "uid": "minecraft:redstone_block",
+      "meta": 0,
+      "color": "#ab1b09"
+    },
+    {
+      "name": "Block of Ruby",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 5,
+      "color": "#620006"
+    },
+    {
+      "name": "Block of Sapphire",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 6,
+      "color": "#050959"
+    },
+    {
+      "name": "Block of Silver",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 10,
+      "color": "#c9dfed"
+    },
+    {
+      "name": "Block of Tin",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 9,
+      "color": "#eceff1"
+    },
+    {
+      "name": "Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blue Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 11,
+      "color": "#515173"
+    },
+    {
+      "name": "Blue Orchid",
+      "uid": "minecraft:red_flower",
+      "meta": 1,
+      "color": "#1e7eb6"
+    },
+    {
+      "name": "Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 11,
+      "color": "#4a3b5b"
+    },
+    {
+      "name": "Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 11,
+      "color": "#334cb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 11,
+      "color": "#2e388d"
+    },
+    {
+      "name": "Blutonium Block",
+      "uid": "BigReactors:BRMetalBlock",
+      "meta": 3,
+      "color": "#251be4"
+    },
+    {
+      "name": "Bookshelf",
+      "uid": "minecraft:bookshelf",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Brewing Stand",
+      "uid": "minecraft:brewing_stand",
+      "meta": 0,
+      "color": "#7c6751"
+    },
+    {
+      "name": "Brick Stairs",
+      "uid": "minecraft:brick_stairs",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks",
+      "uid": "minecraft:brick_block",
+      "meta": 0,
+      "color": "#926356"
+    },
+    {
+      "name": "Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 4,
+      "color": "#926356"
+    },
+    {
+      "name": "Brown Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Brown Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 12,
+      "color": "#39312a"
+    },
+    {
+      "name": "Brown Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 12,
+      "color": "#4d3323"
+    },
+    {
+      "name": "Brown Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 12,
+      "color": "#664c33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Brown Wool",
+      "uid": "minecraft:wool",
+      "meta": 12,
+      "color": "#4f321f"
+    },
+    {
+      "name": "Builder",
+      "uid": "BuildCraft|Builders:builderBlock",
+      "meta": 0,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:stone_button",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Button",
+      "uid": "minecraft:wooden_button",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Cable",
+      "uid": "OpenComputers:cable",
+      "meta": 0,
+      "color": "#747474"
+    },
+    {
+      "name": "Cactus",
+      "uid": "minecraft:cactus",
+      "meta": 0,
+      "color": "#0d6618"
+    },
+    {
+      "name": "Capacitor",
+      "uid": "OpenComputers:capacitor",
+      "meta": 0,
+      "color": "#3e803e"
+    },
+    {
+      "name": "Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Carrots",
+      "uid": "minecraft:carrots",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Cauldron",
+      "uid": "minecraft:cauldron",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "Charger",
+      "uid": "OpenComputers:charger",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Charging Bench",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 6,
+      "color": "#708081"
+    },
+    {
+      "name": "Charging Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 3,
+      "color": "#2d262d"
+    },
+    {
+      "name": "Chest",
+      "uid": "minecraft:chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Chiseled Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 1,
+      "color": "#e7e4db"
+    },
+    {
+      "name": "Chiseled Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Chiseled Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 3,
+      "color": "#767676"
+    },
+    {
+      "name": "Chute",
+      "uid": "BuildCraft|Factory:blockHopper",
+      "meta": 0,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "Clay",
+      "uid": "minecraft:clay",
+      "meta": 0,
+      "color": "#9ea4b0"
+    },
+    {
+      "name": "Coal Ore",
+      "uid": "minecraft:coal_ore",
+      "meta": 0,
+      "color": "#737373"
+    },
+    {
+      "name": "Cobblestone",
+      "uid": "minecraft:cobblestone",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 3,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Cobweb",
+      "uid": "minecraft:web",
+      "meta": 0,
+      "color": "#dcdcdc"
+    },
+    {
+      "name": "Cocoa",
+      "uid": "minecraft:cocoa",
+      "meta": 0,
+      "color": "#91501e"
+    },
+    {
+      "name": "Combustion Engine",
+      "uid": "BuildCraft|Core:engineBlock",
+      "meta": 2,
+      "color": "#bcbcbc"
+    },
+    {
+      "name": "Command Block",
+      "uid": "minecraft:command_block",
+      "meta": 0,
+      "color": "#b2896f"
+    },
+    {
+      "name": "Command Computer",
+      "uid": "ComputerCraft:command_computer",
+      "meta": 0,
+      "color": "#b57347"
+    },
+    {
+      "name": "Computer",
+      "uid": "ComputerCraft:CC-Computer",
+      "meta": 0,
+      "color": "#6c6c6c"
+    },
+    {
+      "name": "Computer Case (Creative)",
+      "uid": "OpenComputers:caseCreative",
+      "meta": 0,
+      "color": "#5e5e5e"
+    },
+    {
+      "name": "Computer Case (Tier 1)",
+      "uid": "OpenComputers:case1",
+      "meta": 0,
+      "color": "#5e5e5e"
+    },
+    {
+      "name": "Computer Case (Tier 2)",
+      "uid": "OpenComputers:case2",
+      "meta": 0,
+      "color": "#5e5e5e"
+    },
+    {
+      "name": "Computer Case (Tier 3)",
+      "uid": "OpenComputers:case3",
+      "meta": 0,
+      "color": "#5e5e5e"
+    },
+    {
+      "name": "Construction Mark",
+      "uid": "BuildCraft|Builders:constructionMarkerBlock",
+      "meta": 0,
+      "color": "#ac9a5e",
+      "alpha": 0.99607843
+    },
+    {
+      "name": "Copper Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 3,
+      "color": "#897e71"
+    },
+    {
+      "name": "Copper Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 8,
+      "color": "#d6882d"
+    },
+    {
+      "name": "Cracked Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 2,
+      "color": "#767676"
+    },
+    {
+      "name": "Crafting Table",
+      "uid": "minecraft:crafting_table",
+      "meta": 0,
+      "color": "#6b472a"
+    },
+    {
+      "name": "Creative Engine",
+      "uid": "BuildCraft|Core:engineBlock",
+      "meta": 3,
+      "color": "#791212"
+    },
+    {
+      "name": "Cyan Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Cyan Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 9,
+      "color": "#3c5555"
+    },
+    {
+      "name": "Cyan Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 9,
+      "color": "#565b5b"
+    },
+    {
+      "name": "Cyan Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 9,
+      "color": "#4c7f99",
+      "alpha": 0.4
+    },
+    {
+      "name": "Cyan Wool",
+      "uid": "minecraft:wool",
+      "meta": 9,
+      "color": "#2e6e89"
+    },
+    {
+      "name": "Cyanite Block",
+      "uid": "BigReactors:BRMetalBlock",
+      "meta": 1,
+      "color": "#2c9ab5"
+    },
+    {
+      "name": "Cyanite Reprocesssor",
+      "uid": "BigReactors:BRDevice",
+      "meta": 0,
+      "color": "#505057"
+    },
+    {
+      "name": "Dandelion",
+      "uid": "minecraft:yellow_flower",
+      "meta": 0,
+      "color": "#afb401"
+    },
+    {
+      "name": "Dark Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 5,
+      "color": "#38561c"
+    },
+    {
+      "name": "Dark Oak Wood",
+      "uid": "minecraft:log2",
+      "meta": 1,
+      "color": "#4e3e29"
+    },
+    {
+      "name": "Dark Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 5,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Dark Oak Wood Stairs",
+      "uid": "minecraft:dark_oak_stairs",
+      "meta": 0,
+      "color": "#3d2712"
+    },
+    {
+      "name": "Daylight Sensor",
+      "uid": "minecraft:daylight_detector",
+      "meta": 0,
+      "color": "#82745e"
+    },
+    {
+      "name": "Dead Bush",
+      "uid": "minecraft:deadbush",
+      "meta": 0,
+      "color": "#7b4f19"
+    },
+    {
+      "name": "Debug Frame Motor",
+      "uid": "MCFrames:mcframes.motor",
+      "meta": 0,
+      "color": "#a13e0e"
+    },
+    {
+      "name": "Detector Rail",
+      "uid": "minecraft:detector_rail",
+      "meta": 0,
+      "color": "#786559"
+    },
+    {
+      "name": "Deviating Lily",
+      "uid": "ProjRed|Exploration:projectred.exploration.lily",
+      "meta": 0,
+      "color": "#a3cb8d"
+    },
+    {
+      "name": "Diamond Ore",
+      "uid": "minecraft:diamond_ore",
+      "meta": 0,
+      "color": "#818c8f"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 0,
+      "color": "#866043"
+    },
+    {
+      "name": "Dirt",
+      "uid": "minecraft:dirt",
+      "meta": 2,
+      "color": "#5a3f1c"
+    },
+    {
+      "name": "Disassembler",
+      "uid": "OpenComputers:disassembler",
+      "meta": 0,
+      "color": "#1c1c1c"
+    },
+    {
+      "name": "Disk Drive",
+      "uid": "ComputerCraft:CC-Peripheral",
+      "meta": 0,
+      "color": "#6c6c6c"
+    },
+    {
+      "name": "Disk Drive",
+      "uid": "OpenComputers:diskDrive",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Dispenser",
+      "uid": "minecraft:dispenser",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Double Tallgrass",
+      "uid": "minecraft:double_plant",
+      "meta": 2,
+      "color": "#818181"
+    },
+    {
+      "name": "Dragon Egg",
+      "uid": "minecraft:dragon_egg",
+      "meta": 0,
+      "color": "#0c090f"
+    },
+    {
+      "name": "Dropper",
+      "uid": "minecraft:dropper",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Electronic Library",
+      "uid": "BuildCraft|Builders:libraryBlock",
+      "meta": 0,
+      "color": "#cacaca"
+    },
+    {
+      "name": "Electronics Assembler",
+      "uid": "OpenComputers:assembler",
+      "meta": 0,
+      "color": "#1a1a1a"
+    },
+    {
+      "name": "Electrotine Generator",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine1",
+      "meta": 1,
+      "color": "#503d2f"
+    },
+    {
+      "name": "Electrotine Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 6,
+      "color": "#6c757d"
+    },
+    {
+      "name": "Electrotine Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 11,
+      "color": "#0d4075"
+    },
+    {
+      "name": "Emerald Ore",
+      "uid": "minecraft:emerald_ore",
+      "meta": 0,
+      "color": "#6d8074"
+    },
+    {
+      "name": "Enchantment Table",
+      "uid": "minecraft:enchanting_table",
+      "meta": 0,
+      "color": "#67403b"
+    },
+    {
+      "name": "End Portal",
+      "uid": "minecraft:end_portal_frame",
+      "meta": 0,
+      "color": "#597560"
+    },
+    {
+      "name": "End Stone",
+      "uid": "OpenComputers:endstone",
+      "meta": 0,
+      "color": "#dddfa5"
+    },
+    {
+      "name": "End Stone",
+      "uid": "minecraft:end_stone",
+      "meta": 0,
+      "color": "#dddfa5"
+    },
+    {
+      "name": "Ender Chest",
+      "uid": "minecraft:ender_chest",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Farmland",
+      "uid": "minecraft:farmland",
+      "meta": 0,
+      "color": "#734b2d"
+    },
+    {
+      "name": "Fence",
+      "uid": "minecraft:fence",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Fence Gate",
+      "uid": "minecraft:fence_gate",
+      "meta": 0,
+      "color": "#9c7f4e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Filler",
+      "uid": "BuildCraft|Builders:fillerBlock",
+      "meta": 0,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Filtered Buffer",
+      "uid": "BuildCraft|Transport:filteredBufferBlock",
+      "meta": 0,
+      "color": "#634932"
+    },
+    {
+      "name": "Filtered Importer",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 3,
+      "color": "#979797"
+    },
+    {
+      "name": "Fire",
+      "uid": "minecraft:fire",
+      "meta": 0,
+      "color": "#d08328"
+    },
+    {
+      "name": "Fire Starter",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 4,
+      "color": "#544342"
+    },
+    {
+      "name": "Flood Gate",
+      "uid": "BuildCraft|Factory:floodGateBlock",
+      "meta": 0,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Flower Pot",
+      "uid": "minecraft:flower_pot",
+      "meta": 0,
+      "color": "#764133"
+    },
+    {
+      "name": "Fluid Cyanite",
+      "uid": "BigReactors:tile.fluid.cyanite.still",
+      "meta": 0,
+      "color": "#4f94b4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Fluid Yellorium",
+      "uid": "BigReactors:tile.fluid.yellorium.still",
+      "meta": 0,
+      "color": "#b4b34f",
+      "alpha": 0.3
+    },
+    {
+      "name": "Frame",
+      "uid": "BuildCraft|Builders:frameBlock",
+      "meta": 0,
+      "color": "#9d6128",
+      "alpha": 0.4
+    },
+    {
+      "name": "Frame",
+      "uid": "MCFrames:mcframes.frame",
+      "meta": 0,
+      "color": "#5b4b30"
+    },
+    {
+      "name": "Frame Linear Actuator",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 9,
+      "color": "#705c3e"
+    },
+    {
+      "name": "Frame Motor",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 8,
+      "color": "#71634f"
+    },
+    {
+      "name": "Fuel",
+      "uid": "BuildCraft|Energy:blockFuel",
+      "meta": 0,
+      "color": "#938e00",
+      "alpha": 0.3
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Furnace",
+      "uid": "minecraft:lit_furnace",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Geolyzer",
+      "uid": "OpenComputers:geolyzer",
+      "meta": 0,
+      "color": "#1c1c1c"
+    },
+    {
+      "name": "Glass",
+      "uid": "minecraft:glass",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glass Pane",
+      "uid": "minecraft:glass_pane",
+      "meta": 0,
+      "color": "#daf0f4",
+      "alpha": 0.4
+    },
+    {
+      "name": "Glowstone",
+      "uid": "minecraft:glowstone",
+      "meta": 0,
+      "color": "#8f7645",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gold Ore",
+      "uid": "minecraft:gold_ore",
+      "meta": 0,
+      "color": "#8f8b7c"
+    },
+    {
+      "name": "Graphite Block",
+      "uid": "BigReactors:BRMetalBlock",
+      "meta": 2,
+      "color": "#232323"
+    },
+    {
+      "name": "Grass Block",
+      "uid": "minecraft:grass",
+      "meta": 0,
+      "color": "#939393"
+    },
+    {
+      "name": "Gravel",
+      "uid": "minecraft:gravel",
+      "meta": 0,
+      "color": "#7e7c7a"
+    },
+    {
+      "name": "Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 7,
+      "color": "#392a23"
+    },
+    {
+      "name": "Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 7,
+      "color": "#4c4c4c",
+      "alpha": 0.4
+    },
+    {
+      "name": "Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 7,
+      "color": "#404040"
+    },
+    {
+      "name": "Green Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Green Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 13,
+      "color": "#3d553c"
+    },
+    {
+      "name": "Green Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 13,
+      "color": "#4c532a"
+    },
+    {
+      "name": "Green Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 13,
+      "color": "#667f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Green Wool",
+      "uid": "minecraft:wool",
+      "meta": 13,
+      "color": "#35461b"
+    },
+    {
+      "name": "Grey Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 7,
+      "color": "#3b3b3b"
+    },
+    {
+      "name": "Hardened Clay",
+      "uid": "minecraft:hardened_clay",
+      "meta": 0,
+      "color": "#965c42"
+    },
+    {
+      "name": "Hay Bale",
+      "uid": "minecraft:hay_block",
+      "meta": 0,
+      "color": "#a88b10"
+    },
+    {
+      "name": "Hologram Projector (Tier 1)",
+      "uid": "OpenComputers:hologram1",
+      "meta": 0,
+      "color": "#303f30"
+    },
+    {
+      "name": "Hologram Projector (Tier 2)",
+      "uid": "OpenComputers:hologram2",
+      "meta": 0,
+      "color": "#2f3b3f"
+    },
+    {
+      "name": "Hopper",
+      "uid": "minecraft:hopper",
+      "meta": 0,
+      "color": "#454545"
+    },
+    {
+      "name": "IC Printer",
+      "uid": "ProjRed|Fabrication:projectred.integration.icblock",
+      "meta": 1,
+      "color": "#323131"
+    },
+    {
+      "name": "IC Workbench",
+      "uid": "ProjRed|Fabrication:projectred.integration.icblock",
+      "meta": 0,
+      "color": "#28416a"
+    },
+    {
+      "name": "Ice",
+      "uid": "minecraft:ice",
+      "meta": 0,
+      "color": "#7dadff",
+      "alpha": 0.8
+    },
+    {
+      "name": "Inductive Furnace",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine1",
+      "meta": 0,
+      "color": "#4c3730"
+    },
+    {
+      "name": "Integration Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 2,
+      "color": "#2e292e"
+    },
+    {
+      "name": "Inverted Black Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 31,
+      "color": "#2d2d2d"
+    },
+    {
+      "name": "Inverted Blue Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 27,
+      "color": "#25259b"
+    },
+    {
+      "name": "Inverted Brown Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 28,
+      "color": "#4e3318"
+    },
+    {
+      "name": "Inverted Cyan Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 25,
+      "color": "#187474"
+    },
+    {
+      "name": "Inverted Green Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 29,
+      "color": "#1e7418"
+    },
+    {
+      "name": "Inverted Grey Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 23,
+      "color": "#515151"
+    },
+    {
+      "name": "Inverted Light Blue Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 19,
+      "color": "#6472bc"
+    },
+    {
+      "name": "Inverted Light Grey Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 24,
+      "color": "#7c7c7c"
+    },
+    {
+      "name": "Inverted Lime Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 21,
+      "color": "#61bc18"
+    },
+    {
+      "name": "Inverted Magenta Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 18,
+      "color": "#942a94"
+    },
+    {
+      "name": "Inverted Orange Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 17,
+      "color": "#9b5c18"
+    },
+    {
+      "name": "Inverted Pink Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 22,
+      "color": "#bc4868"
+    },
+    {
+      "name": "Inverted Purple Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 26,
+      "color": "#58189b"
+    },
+    {
+      "name": "Inverted Red Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 30,
+      "color": "#87231c"
+    },
+    {
+      "name": "Inverted White Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 16,
+      "color": "#c6c6c6"
+    },
+    {
+      "name": "Inverted Yellow Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 20,
+      "color": "#9a9a18"
+    },
+    {
+      "name": "Iron Bars",
+      "uid": "minecraft:iron_bars",
+      "meta": 0,
+      "color": "#6d6c6a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Iron Door",
+      "uid": "minecraft:iron_door",
+      "meta": 0,
+      "color": "#a3a3a3"
+    },
+    {
+      "name": "Iron Ore",
+      "uid": "minecraft:iron_ore",
+      "meta": 0,
+      "color": "#87827e"
+    },
+    {
+      "name": "Item Barrel",
+      "uid": "ProjRed|Exploration:projectred.exploration.barrel",
+      "meta": 0,
+      "color": "#80673d"
+    },
+    {
+      "name": "Item Importer",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 1,
+      "color": "#6a4d1f"
+    },
+    {
+      "name": "Jack o\u0027Lantern",
+      "uid": "minecraft:lit_pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Jukebox",
+      "uid": "minecraft:jukebox",
+      "meta": 0,
+      "color": "#6b4937"
+    },
+    {
+      "name": "Jungle Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 3,
+      "color": "#918e86"
+    },
+    {
+      "name": "Jungle Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 3,
+      "color": "#305612"
+    },
+    {
+      "name": "Jungle Wood",
+      "uid": "minecraft:log",
+      "meta": 3,
+      "color": "#997649"
+    },
+    {
+      "name": "Jungle Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 3,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Jungle Wood Stairs",
+      "uid": "minecraft:jungle_stairs",
+      "meta": 0,
+      "color": "#9a6e4d"
+    },
+    {
+      "name": "Keyboard",
+      "uid": "OpenComputers:keyboard",
+      "meta": 0,
+      "color": "#2b2b2b"
+    },
+    {
+      "name": "Ladder",
+      "uid": "minecraft:ladder",
+      "meta": 0,
+      "color": "#795f34"
+    },
+    {
+      "name": "Land Mark",
+      "uid": "BuildCraft|Core:markerBlock",
+      "meta": 0,
+      "color": "#70829a"
+    },
+    {
+      "name": "Lapis Lazuli Block",
+      "uid": "minecraft:lapis_block",
+      "meta": 0,
+      "color": "#264389"
+    },
+    {
+      "name": "Lapis Lazuli Ore",
+      "uid": "minecraft:lapis_ore",
+      "meta": 0,
+      "color": "#667086"
+    },
+    {
+      "name": "Large Fern",
+      "uid": "minecraft:double_plant",
+      "meta": 3,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Laser",
+      "uid": "BuildCraft|Silicon:laserBlock",
+      "meta": 0,
+      "color": "#221e24"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:flowing_lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lava",
+      "uid": "minecraft:lava",
+      "meta": 0,
+      "color": "#d1530f"
+    },
+    {
+      "name": "Lever",
+      "uid": "minecraft:lever",
+      "meta": 0,
+      "color": "#6a5940"
+    },
+    {
+      "name": "Light Blue Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Blue Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 3,
+      "color": "#747997"
+    },
+    {
+      "name": "Light Blue Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 3,
+      "color": "#716c89"
+    },
+    {
+      "name": "Light Blue Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 3,
+      "color": "#6699d8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Blue Wool",
+      "uid": "minecraft:wool",
+      "meta": 3,
+      "color": "#6a8ac9"
+    },
+    {
+      "name": "Light Gray Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Light Gray Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 8,
+      "color": "#876a61"
+    },
+    {
+      "name": "Light Gray Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 8,
+      "color": "#999999",
+      "alpha": 0.4
+    },
+    {
+      "name": "Light Gray Wool",
+      "uid": "minecraft:wool",
+      "meta": 8,
+      "color": "#9aa1a1"
+    },
+    {
+      "name": "Light Grey Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 8,
+      "color": "#5b5b5b"
+    },
+    {
+      "name": "Lilac",
+      "uid": "minecraft:double_plant",
+      "meta": 1,
+      "color": "#94948c"
+    },
+    {
+      "name": "Lily Pad",
+      "uid": "minecraft:waterlily",
+      "meta": 0,
+      "color": "#767676"
+    },
+    {
+      "name": "Lime Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Lime Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 5,
+      "color": "#73975d"
+    },
+    {
+      "name": "Lime Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 5,
+      "color": "#677534"
+    },
+    {
+      "name": "Lime Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 5,
+      "color": "#7fcc19",
+      "alpha": 0.4
+    },
+    {
+      "name": "Lime Wool",
+      "uid": "minecraft:wool",
+      "meta": 5,
+      "color": "#41ae38"
+    },
+    {
+      "name": "Ludicrite Block",
+      "uid": "BigReactors:BRMetalBlock",
+      "meta": 4,
+      "color": "#df2eab"
+    },
+    {
+      "name": "Magenta Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Magenta Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 2,
+      "color": "#6d4f6d"
+    },
+    {
+      "name": "Magenta Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 2,
+      "color": "#95586c"
+    },
+    {
+      "name": "Magenta Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 2,
+      "color": "#b24cd8",
+      "alpha": 0.4
+    },
+    {
+      "name": "Magenta Wool",
+      "uid": "minecraft:wool",
+      "meta": 2,
+      "color": "#b350bc"
+    },
+    {
+      "name": "Marble",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 0,
+      "color": "#d4cbbe"
+    },
+    {
+      "name": "Marble Brick",
+      "uid": "ProjRed|Exploration:projectred.exploration.stone",
+      "meta": 1,
+      "color": "#c2b9ac"
+    },
+    {
+      "name": "Marble Brick Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 1,
+      "color": "#c2b9ac"
+    },
+    {
+      "name": "Marble Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 0,
+      "color": "#d4cbbe"
+    },
+    {
+      "name": "Melon",
+      "uid": "minecraft:melon_block",
+      "meta": 0,
+      "color": "#979924"
+    },
+    {
+      "name": "Microcontroller",
+      "uid": "OpenComputers:microcontroller",
+      "meta": 0,
+      "color": "#362e2d"
+    },
+    {
+      "name": "Mining Pipe",
+      "uid": "BuildCraft|Factory:plainPipeBlock",
+      "meta": 0,
+      "color": "#5e4b37",
+      "alpha": 0.4
+    },
+    {
+      "name": "Mining Well",
+      "uid": "BuildCraft|Factory:miningWellBlock",
+      "meta": 0,
+      "color": "#b7b7b7"
+    },
+    {
+      "name": "Monster Spawner",
+      "uid": "minecraft:mob_spawner",
+      "meta": 0,
+      "color": "#1a2731"
+    },
+    {
+      "name": "Moss Stone",
+      "uid": "minecraft:mossy_cobblestone",
+      "meta": 0,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Cobblestone Wall",
+      "uid": "minecraft:cobblestone_wall",
+      "meta": 1,
+      "color": "#677967"
+    },
+    {
+      "name": "Mossy Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 1,
+      "color": "#72776a"
+    },
+    {
+      "name": "Motion Sensor",
+      "uid": "OpenComputers:motionSensor",
+      "meta": 0,
+      "color": "#4b6d6f"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom",
+      "meta": 0,
+      "color": "#8a6953"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:brown_mushroom_block",
+      "meta": 0,
+      "color": "#8d6a53"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom",
+      "meta": 0,
+      "color": "#c33538"
+    },
+    {
+      "name": "Mushroom",
+      "uid": "minecraft:red_mushroom_block",
+      "meta": 0,
+      "color": "#b62524"
+    },
+    {
+      "name": "Mycelium",
+      "uid": "minecraft:mycelium",
+      "meta": 0,
+      "color": "#6f6369"
+    },
+    {
+      "name": "Net Splitter",
+      "uid": "OpenComputers:netSplitter",
+      "meta": 0,
+      "color": "#2a2a2a"
+    },
+    {
+      "name": "Nether Brick",
+      "uid": "minecraft:nether_brick",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Fence",
+      "uid": "minecraft:nether_brick_fence",
+      "meta": 0,
+      "color": "#2c161a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Nether Brick Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 6,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Brick Stairs",
+      "uid": "minecraft:nether_brick_stairs",
+      "meta": 0,
+      "color": "#2c161a"
+    },
+    {
+      "name": "Nether Quartz Ore",
+      "uid": "minecraft:quartz_ore",
+      "meta": 0,
+      "color": "#7d544f"
+    },
+    {
+      "name": "Netherrack",
+      "uid": "minecraft:netherrack",
+      "meta": 0,
+      "color": "#6f3634"
+    },
+    {
+      "name": "Networking Cable",
+      "uid": "ComputerCraft:CC-Cable",
+      "meta": 0,
+      "color": "#7e7e7e"
+    },
+    {
+      "name": "Note Block",
+      "uid": "minecraft:noteblock",
+      "meta": 0,
+      "color": "#644332"
+    },
+    {
+      "name": "Oak Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 0,
+      "color": "#878787"
+    },
+    {
+      "name": "Oak Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 0,
+      "color": "#476625"
+    },
+    {
+      "name": "Oak Wood",
+      "uid": "minecraft:log",
+      "meta": 0,
+      "color": "#9a7d4d"
+    },
+    {
+      "name": "Oak Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Oak Wood Stairs",
+      "uid": "minecraft:oak_stairs",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Obsidian",
+      "uid": "minecraft:obsidian",
+      "meta": 0,
+      "color": "#14121d"
+    },
+    {
+      "name": "Oil",
+      "uid": "BuildCraft|Energy:blockOil",
+      "meta": 0,
+      "color": "#030303",
+      "alpha": 0.3
+    },
+    {
+      "name": "Oil Spring",
+      "uid": "BuildCraft|Core:eternalSpring",
+      "meta": 1,
+      "color": "#535353"
+    },
+    {
+      "name": "Orange Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Orange Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 1,
+      "color": "#73604e"
+    },
+    {
+      "name": "Orange Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 1,
+      "color": "#a15325"
+    },
+    {
+      "name": "Orange Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 1,
+      "color": "#d87f33",
+      "alpha": 0.4
+    },
+    {
+      "name": "Orange Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 5,
+      "color": "#a3581a"
+    },
+    {
+      "name": "Orange Wool",
+      "uid": "minecraft:wool",
+      "meta": 1,
+      "color": "#db7d3e"
+    },
+    {
+      "name": "Oxeye Daisy",
+      "uid": "minecraft:red_flower",
+      "meta": 8,
+      "color": "#b3b3b3"
+    },
+    {
+      "name": "Packed Ice",
+      "uid": "minecraft:packed_ice",
+      "meta": 0,
+      "color": "#a5c2f5",
+      "alpha": 0.8
+    },
+    {
+      "name": "Path Mark",
+      "uid": "BuildCraft|Core:pathMarkerBlock",
+      "meta": 0,
+      "color": "#8d9958",
+      "alpha": 0.99607843
+    },
+    {
+      "name": "Peony",
+      "uid": "minecraft:double_plant",
+      "meta": 5,
+      "color": "#85868e",
+      "alpha": 0.9882353
+    },
+    {
+      "name": "Peridot Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 2,
+      "color": "#6b7269"
+    },
+    {
+      "name": "Peridot Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 7,
+      "color": "#175000"
+    },
+    {
+      "name": "Pillar Quartz Block",
+      "uid": "minecraft:quartz_block",
+      "meta": 2,
+      "color": "#e8e5dd"
+    },
+    {
+      "name": "Pink Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Pink Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 6,
+      "color": "#976b75"
+    },
+    {
+      "name": "Pink Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 6,
+      "color": "#a14e4e"
+    },
+    {
+      "name": "Pink Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 6,
+      "color": "#f27fa5",
+      "alpha": 0.4
+    },
+    {
+      "name": "Pink Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 7,
+      "color": "#b09ab0"
+    },
+    {
+      "name": "Pink Wool",
+      "uid": "minecraft:wool",
+      "meta": 6,
+      "color": "#d08499"
+    },
+    {
+      "name": "Piston",
+      "uid": "minecraft:piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Poppy",
+      "uid": "minecraft:red_flower",
+      "meta": 0,
+      "color": "#980406"
+    },
+    {
+      "name": "Portal",
+      "uid": "minecraft:portal",
+      "meta": 0,
+      "color": "#560abf"
+    },
+    {
+      "name": "Potatoes",
+      "uid": "minecraft:potatoes",
+      "meta": 0,
+      "color": "#01ab10"
+    },
+    {
+      "name": "Power Converter",
+      "uid": "OpenComputers:powerConverter",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Power Distributor",
+      "uid": "OpenComputers:powerDistributor",
+      "meta": 0,
+      "color": "#33332c"
+    },
+    {
+      "name": "Powered Rail",
+      "uid": "minecraft:golden_rail",
+      "meta": 0,
+      "color": "#846c48"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:stone_pressure_plate",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Pressure Plate",
+      "uid": "minecraft:wooden_pressure_plate",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Programming Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 4,
+      "color": "#343435",
+      "alpha": 0.972549
+    },
+    {
+      "name": "Project Bench",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 10,
+      "color": "#86270c"
+    },
+    {
+      "name": "Pump",
+      "uid": "BuildCraft|Factory:pumpBlock",
+      "meta": 0,
+      "color": "#a8a8a8"
+    },
+    {
+      "name": "Pumpkin",
+      "uid": "minecraft:pumpkin",
+      "meta": 0,
+      "color": "#c07615"
+    },
+    {
+      "name": "Purple Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Purple Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 10,
+      "color": "#5f4e73"
+    },
+    {
+      "name": "Purple Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 10,
+      "color": "#764656"
+    },
+    {
+      "name": "Purple Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 10,
+      "color": "#7f3fb2",
+      "alpha": 0.4
+    },
+    {
+      "name": "Purple Wool",
+      "uid": "minecraft:wool",
+      "meta": 10,
+      "color": "#7e3db5"
+    },
+    {
+      "name": "Quarry",
+      "uid": "BuildCraft|Builders:machineBlock",
+      "meta": 0,
+      "color": "#c1c1c1"
+    },
+    {
+      "name": "Quartz Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 7,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Quartz Stairs",
+      "uid": "minecraft:quartz_stairs",
+      "meta": 0,
+      "color": "#ece9e2"
+    },
+    {
+      "name": "Raid",
+      "uid": "OpenComputers:raid",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Rail",
+      "uid": "minecraft:rail",
+      "meta": 0,
+      "color": "#796c58"
+    },
+    {
+      "name": "Reactor Access Port",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 4,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Casing",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 0,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Computer Port",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 7,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Control Rod",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 2,
+      "color": "#505154"
+    },
+    {
+      "name": "Reactor Controller",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 1,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Coolant Port",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 5,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Creative Coolant Port",
+      "uid": "BigReactors:BRMultiblockCreativePart",
+      "meta": 0,
+      "color": "#5f5067"
+    },
+    {
+      "name": "Reactor Glass",
+      "uid": "BigReactors:BRMultiblockGlass",
+      "meta": 0,
+      "color": "#5c5b41",
+      "alpha": 0.4
+    },
+    {
+      "name": "Reactor Power Tap",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 3,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor RedNet Port",
+      "uid": "BigReactors:BRReactorPart",
+      "meta": 6,
+      "color": "#505057"
+    },
+    {
+      "name": "Reactor Redstone Port",
+      "uid": "BigReactors:BRReactorRedstonePort",
+      "meta": 0,
+      "color": "#505057"
+    },
+    {
+      "name": "Recipe Packager",
+      "uid": "BuildCraft|Silicon:packagerBlock",
+      "meta": 0,
+      "color": "#b7b7b7"
+    },
+    {
+      "name": "Red Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Red Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 14,
+      "color": "#624745"
+    },
+    {
+      "name": "Red Sand",
+      "uid": "minecraft:sand",
+      "meta": 1,
+      "color": "#a95821"
+    },
+    {
+      "name": "Red Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 14,
+      "color": "#8f3d2e"
+    },
+    {
+      "name": "Red Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 14,
+      "color": "#993333",
+      "alpha": 0.4
+    },
+    {
+      "name": "Red Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 4,
+      "color": "#980406"
+    },
+    {
+      "name": "Red Wool",
+      "uid": "minecraft:wool",
+      "meta": 14,
+      "color": "#963430"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:lit_redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone",
+      "uid": "minecraft:redstone_wire",
+      "meta": 0,
+      "color": "#efefef"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:powered_comparator",
+      "meta": 0,
+      "color": "#a59594"
+    },
+    {
+      "name": "Redstone Comparator",
+      "uid": "minecraft:unpowered_comparator",
+      "meta": 0,
+      "color": "#9c9695"
+    },
+    {
+      "name": "Redstone Engine",
+      "uid": "BuildCraft|Core:engineBlock",
+      "meta": 0,
+      "color": "#6a4e33"
+    },
+    {
+      "name": "Redstone I/O",
+      "uid": "OpenComputers:redstone",
+      "meta": 0,
+      "color": "#653b37"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:lit_redstone_lamp",
+      "meta": 0,
+      "color": "#775937"
+    },
+    {
+      "name": "Redstone Lamp",
+      "uid": "minecraft:redstone_lamp",
+      "meta": 0,
+      "color": "#462b1a"
+    },
+    {
+      "name": "Redstone Ore",
+      "uid": "minecraft:redstone_ore",
+      "meta": 0,
+      "color": "#846b6b"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:powered_repeater",
+      "meta": 0,
+      "color": "#a09393"
+    },
+    {
+      "name": "Redstone Repeater",
+      "uid": "minecraft:unpowered_repeater",
+      "meta": 0,
+      "color": "#979393"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:redstone_torch",
+      "meta": 0,
+      "color": "#a74b29"
+    },
+    {
+      "name": "Redstone Torch",
+      "uid": "minecraft:unlit_redstone_torch",
+      "meta": 0,
+      "color": "#5d3e26"
+    },
+    {
+      "name": "Refinery",
+      "uid": "BuildCraft|Factory:refineryBlock",
+      "meta": 0,
+      "color": "#7d0303"
+    },
+    {
+      "name": "Relay",
+      "uid": "OpenComputers:relay",
+      "meta": 0,
+      "color": "#3f3f4f"
+    },
+    {
+      "name": "Requester",
+      "uid": "BuildCraft|Robotics:requester",
+      "meta": 0,
+      "color": "#bfbfbf"
+    },
+    {
+      "name": "Robot",
+      "uid": "OpenComputers:robotAfterimage",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Robot.name",
+      "uid": "OpenComputers:robot",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Rose Bush",
+      "uid": "minecraft:double_plant",
+      "meta": 4,
+      "color": "#733d07"
+    },
+    {
+      "name": "Ruby Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 0,
+      "color": "#776969"
+    },
+    {
+      "name": "Ruby Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 5,
+      "color": "#620006"
+    },
+    {
+      "name": "Sand",
+      "uid": "minecraft:sand",
+      "meta": 0,
+      "color": "#dbd3a0"
+    },
+    {
+      "name": "Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 1,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sandstone Stairs",
+      "uid": "minecraft:sandstone_stairs",
+      "meta": 0,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Sapphire Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 1,
+      "color": "#666670"
+    },
+    {
+      "name": "Sapphire Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 6,
+      "color": "#050959"
+    },
+    {
+      "name": "Screen (Tier 1)",
+      "uid": "OpenComputers:screen1",
+      "meta": 0,
+      "color": "#414141"
+    },
+    {
+      "name": "Screen (Tier 2)",
+      "uid": "OpenComputers:screen2",
+      "meta": 0,
+      "color": "#414141"
+    },
+    {
+      "name": "Screen (Tier 3)",
+      "uid": "OpenComputers:screen3",
+      "meta": 0,
+      "color": "#414141"
+    },
+    {
+      "name": "Seeds",
+      "uid": "minecraft:wheat",
+      "meta": 0,
+      "color": "#00b312"
+    },
+    {
+      "name": "Server Rack",
+      "uid": "OpenComputers:serverRack",
+      "meta": 0,
+      "color": "#444444"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Shrub",
+      "uid": "minecraft:tallgrass",
+      "meta": 2,
+      "color": "#787878"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:standing_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Sign",
+      "uid": "minecraft:wall_sign",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Silver Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 5,
+      "color": "#85888b"
+    },
+    {
+      "name": "Silver Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 10,
+      "color": "#c9dfed"
+    },
+    {
+      "name": "Skeleton Skull",
+      "uid": "minecraft:skull",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Smooth Sandstone",
+      "uid": "minecraft:sandstone",
+      "meta": 2,
+      "color": "#dad29e"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Snow",
+      "uid": "minecraft:snow_layer",
+      "meta": 0,
+      "color": "#effbfb"
+    },
+    {
+      "name": "Soul Sand",
+      "uid": "minecraft:soul_sand",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "Sponge",
+      "uid": "minecraft:sponge",
+      "meta": 0,
+      "color": "#b6b639"
+    },
+    {
+      "name": "Spruce Leaves",
+      "uid": "minecraft:leaves",
+      "meta": 1,
+      "color": "#747474"
+    },
+    {
+      "name": "Spruce Sapling",
+      "uid": "minecraft:sapling",
+      "meta": 1,
+      "color": "#333a21"
+    },
+    {
+      "name": "Spruce Wood",
+      "uid": "minecraft:log",
+      "meta": 1,
+      "color": "#685130"
+    },
+    {
+      "name": "Spruce Wood Planks",
+      "uid": "minecraft:planks",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Slab",
+      "uid": "minecraft:wooden_slab",
+      "meta": 1,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Spruce Wood Stairs",
+      "uid": "minecraft:spruce_stairs",
+      "meta": 0,
+      "color": "#674d2e"
+    },
+    {
+      "name": "Stamping Table",
+      "uid": "BuildCraft|Silicon:laserTableBlock",
+      "meta": 5,
+      "color": "#322d32"
+    },
+    {
+      "name": "Sticky Piston",
+      "uid": "minecraft:sticky_piston",
+      "meta": 0,
+      "color": "#606060"
+    },
+    {
+      "name": "Stirling Engine",
+      "uid": "BuildCraft|Core:engineBlock",
+      "meta": 1,
+      "color": "#656565"
+    },
+    {
+      "name": "Stone",
+      "uid": "minecraft:stone",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Brick Stairs",
+      "uid": "minecraft:stone_brick_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks",
+      "uid": "minecraft:stonebrick",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Bricks Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 5,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 1,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 2,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 3,
+      "color": "#72776a"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 4,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Monster Egg",
+      "uid": "minecraft:monster_egg",
+      "meta": 5,
+      "color": "#767676"
+    },
+    {
+      "name": "Stone Slab",
+      "uid": "minecraft:stone_slab",
+      "meta": 0,
+      "color": "#9f9f9f"
+    },
+    {
+      "name": "Stone Stairs",
+      "uid": "minecraft:stone_stairs",
+      "meta": 0,
+      "color": "#7a7a7a"
+    },
+    {
+      "name": "String",
+      "uid": "minecraft:tripwire",
+      "meta": 0,
+      "color": "#818181",
+      "alpha": 0.41960785
+    },
+    {
+      "name": "Sugar Canes",
+      "uid": "minecraft:reeds",
+      "meta": 0,
+      "color": "#94c065"
+    },
+    {
+      "name": "Sunflower",
+      "uid": "minecraft:double_plant",
+      "meta": 0,
+      "color": "#436f2d"
+    },
+    {
+      "name": "TNT",
+      "uid": "minecraft:tnt",
+      "meta": 0,
+      "color": "#82412f"
+    },
+    {
+      "name": "Tank",
+      "uid": "BuildCraft|Factory:tankBlock",
+      "meta": 0,
+      "color": "#7f0000",
+      "alpha": 0.4
+    },
+    {
+      "name": "Teleposer",
+      "uid": "ProjRed|Expansion:projectred.expansion.machine2",
+      "meta": 7,
+      "color": "#0d1821"
+    },
+    {
+      "name": "Tin Ore",
+      "uid": "ProjRed|Exploration:projectred.exploration.ore",
+      "meta": 4,
+      "color": "#8c8c8c"
+    },
+    {
+      "name": "Tin Wall",
+      "uid": "ProjRed|Exploration:projectred.exploration.stonewalls",
+      "meta": 9,
+      "color": "#eceff1"
+    },
+    {
+      "name": "Torch",
+      "uid": "minecraft:torch",
+      "meta": 0,
+      "color": "#826a3a"
+    },
+    {
+      "name": "Transposer",
+      "uid": "OpenComputers:transposer",
+      "meta": 0,
+      "color": "#252525"
+    },
+    {
+      "name": "Trapdoor",
+      "uid": "minecraft:trapdoor",
+      "meta": 0,
+      "color": "#7e5d2d"
+    },
+    {
+      "name": "Trapped Chest",
+      "uid": "minecraft:trapped_chest",
+      "meta": 0,
+      "color": "#9c7f4e"
+    },
+    {
+      "name": "Tripwire Hook",
+      "uid": "minecraft:tripwire_hook",
+      "meta": 0,
+      "color": "#8a8171"
+    },
+    {
+      "name": "Turbine Computer Port",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 5,
+      "color": "#7a787b"
+    },
+    {
+      "name": "Turbine Controller",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 1,
+      "color": "#616469"
+    },
+    {
+      "name": "Turbine Creative Steam Generator",
+      "uid": "BigReactors:BRMultiblockCreativePart",
+      "meta": 1,
+      "color": "#5f5067"
+    },
+    {
+      "name": "Turbine Fluid Port",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 3,
+      "color": "#685d61"
+    },
+    {
+      "name": "Turbine Glass",
+      "uid": "BigReactors:BRMultiblockGlass",
+      "meta": 1,
+      "color": "#35424a",
+      "alpha": 0.4
+    },
+    {
+      "name": "Turbine Housing",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 0,
+      "color": "#767c82"
+    },
+    {
+      "name": "Turbine Power Port",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 2,
+      "color": "#7a7475"
+    },
+    {
+      "name": "Turbine Rotor Bearing",
+      "uid": "BigReactors:BRTurbinePart",
+      "meta": 4,
+      "color": "#6c7c80"
+    },
+    {
+      "name": "Turbine Rotor Blade",
+      "uid": "BigReactors:BRTurbineRotorPart",
+      "meta": 1,
+      "color": "#98989f"
+    },
+    {
+      "name": "Turbine Rotor Shaft",
+      "uid": "BigReactors:BRTurbineRotorPart",
+      "meta": 0,
+      "color": "#98989f"
+    },
+    {
+      "name": "Turtle",
+      "uid": "ComputerCraft:CC-Turtle",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Turtle",
+      "uid": "ComputerCraft:CC-TurtleExpanded",
+      "meta": 0,
+      "color": "#7d7d7d"
+    },
+    {
+      "name": "Vines",
+      "uid": "minecraft:vine",
+      "meta": 0,
+      "color": "#6f6f6f",
+      "alpha": 0.2
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:flowing_water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water",
+      "uid": "minecraft:water",
+      "meta": 0,
+      "color": "#2e43f4",
+      "alpha": 0.3
+    },
+    {
+      "name": "Water Spring",
+      "uid": "BuildCraft|Core:eternalSpring",
+      "meta": 0,
+      "color": "#535353"
+    },
+    {
+      "name": "Waypoint",
+      "uid": "OpenComputers:waypoint",
+      "meta": 0,
+      "color": "#272727"
+    },
+    {
+      "name": "Weighted Pressure Plate (Heavy)",
+      "uid": "minecraft:heavy_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#dbdbdb"
+    },
+    {
+      "name": "Weighted Pressure Plate (Light)",
+      "uid": "minecraft:light_weighted_pressure_plate",
+      "meta": 0,
+      "color": "#f9ec4e"
+    },
+    {
+      "name": "White Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 0,
+      "color": "#a4a4a4"
+    },
+    {
+      "name": "White Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 0,
+      "color": "#d1b2a1"
+    },
+    {
+      "name": "White Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 0,
+      "color": "#ffffff",
+      "alpha": 0.4
+    },
+    {
+      "name": "White Tulip",
+      "uid": "minecraft:red_flower",
+      "meta": 6,
+      "color": "#b0b0b0"
+    },
+    {
+      "name": "Wooden Door",
+      "uid": "minecraft:wooden_door",
+      "meta": 0,
+      "color": "#866532"
+    },
+    {
+      "name": "Wool",
+      "uid": "minecraft:wool",
+      "meta": 0,
+      "color": "#dddddd"
+    },
+    {
+      "name": "Yellorite Ore",
+      "uid": "BigReactors:YelloriteOre",
+      "meta": 0,
+      "color": "#8e8e74"
+    },
+    {
+      "name": "Yellorium Block",
+      "uid": "BigReactors:BRMetalBlock",
+      "meta": 0,
+      "color": "#bce02e"
+    },
+    {
+      "name": "Yellorium Fuel Rod",
+      "uid": "BigReactors:YelloriumFuelRod",
+      "meta": 0,
+      "color": "#262626"
+    },
+    {
+      "name": "Yellow Carpet",
+      "uid": "minecraft:carpet",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "Yellow Lamp",
+      "uid": "ProjRed|Illumination:projectred.illumination.lamp",
+      "meta": 4,
+      "color": "#73734d"
+    },
+    {
+      "name": "Yellow Stained Clay",
+      "uid": "minecraft:stained_hardened_clay",
+      "meta": 4,
+      "color": "#ba8523"
+    },
+    {
+      "name": "Yellow Stained Glass",
+      "uid": "minecraft:stained_glass",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Stained Glass Pane",
+      "uid": "minecraft:stained_glass_pane",
+      "meta": 4,
+      "color": "#e5e533",
+      "alpha": 0.4
+    },
+    {
+      "name": "Yellow Wool",
+      "uid": "minecraft:wool",
+      "meta": 4,
+      "color": "#b1a627"
+    },
+    {
+      "name": "Zone Planner",
+      "uid": "BuildCraft|Robotics:zonePlan",
+      "meta": 0,
+      "color": "#c7c7c7"
+    },
+    {
+      "name": "cake",
+      "uid": "minecraft:cake",
+      "meta": 0,
+      "color": "#e4cdce"
+    },
+    {
+      "name": "netherStalk",
+      "uid": "minecraft:nether_wart",
+      "meta": 0,
+      "color": "#6a0e1e"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_extension",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "null",
+      "uid": "minecraft:piston_head",
+      "meta": 0,
+      "color": "#998159"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:melon_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "pumpkinStem",
+      "uid": "minecraft:pumpkin_stem",
+      "meta": 0,
+      "color": "#999999"
+    },
+    {
+      "name": "tile.blockRedPlasma.name",
+      "uid": "BuildCraft|Energy:blockRedPlasma",
+      "meta": 0,
+      "color": "#4e0000",
+      "alpha": 0.3
+    },
+    {
+      "name": "tile.buildToolBlock.name",
+      "uid": "BuildCraft|Core:buildToolBlock",
+      "meta": 0,
+      "color": "#a31c1c"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "minecraft:end_portal",
+      "meta": 0,
+      "color": "#560abf"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "props:blockFake",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "tile.null.name",
+      "uid": "props:blockProps",
+      "meta": 0,
+      "color": "#544033"
+    },
+    {
+      "name": "tile.pipeBlock.name",
+      "uid": "BuildCraft|Transport:pipeBlock",
+      "meta": 0,
+      "color": "#807f7e",
+      "alpha": 0.4
+    },
+    {
+      "name": "§cAccess Point§7",
+      "uid": "OpenComputers:accessPoint",
+      "meta": 0,
+      "color": "#3a3a51"
+    },
+    {
+      "name": "§cSwitch§7",
+      "uid": "OpenComputers:switch",
+      "meta": 0,
+      "color": "#3f3f4f"
+    }
+  ]
+}
