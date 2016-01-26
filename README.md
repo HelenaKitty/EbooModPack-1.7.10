@@ -8,6 +8,7 @@ The Todo list is order in three priorities (Severe, moderate, Last Resort), Seve
 * Fix lag
 * Install all mods from EbooModPack 1.6.4
 * Ensure all mods are up to date, working, and compatible with Minecraft 1.7.10
+* Reassign the item IDs to be more identical with those on EbooModPack 1.6.4
 * Tidy up and complete the Installed Mods section
 * Update the FAQ
 * Add Featured Images section
