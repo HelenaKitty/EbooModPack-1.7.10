@@ -3,21 +3,21 @@ A custom forge-1.7.10-10.13.4.1558 based modpack specially developed to suit the
 
 ![eboo](http://i.imgur.com/hkHgXg0.png)
 
-## Todo
+## Todo Checklist
 The Todo list is order in three priorities (Severe, moderate, Last Resort), Severe priority being at the top of the Todo list, and the Last Resort priority at the very bottom. Both Severe and Moderate priorities need to be implemented before this Modpack is considered stable. Some entries in this list are considered bugs, and others are considered features.
 
 ### Severe
-* Fix lag
+- [ ] Fix lag
 
 ### Moderate
-* Install all mods from EbooModPack 1.6.4
-* Ensure all mods are up to date, working, and compatible with Minecraft 1.7.10
-* Reassign the item IDs to be more identical with those on EbooModPack 1.6.4
+- [ ] Install all mods from EbooModPack 1.6.4
+- [ ] Ensure all mods are up to date, working, and compatible with Minecraft 1.7.10
+- [ ] Reassign the item IDs to be more identical with those on EbooModPack 1.6.4
 
 ### Last Resort
-* Tidy up and complete the Installed Mods section
-* Update the FAQ
-* Add Featured Images section
+- [ ] Tidy up and complete the Installed Mods section
+- [ ] Update the FAQ
+- [ ] Add Featured Images section
 
 ## Installed Mods
 In total, this modpack contains ... mods including:
